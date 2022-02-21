@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning kafka, snowflake and data architecture
 - 👯 I’m looking to collaborate on data engineering and analytics
 - 📫 How to reach me: ashish1995@gmail.com
-- My resume and work experiences 
+- My resume and work experiences - 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/ashish-a/)](https://www.linkedin.com/in/ashish-a/)
 
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ash1sh95&&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

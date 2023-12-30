@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Data Engineer II at [GM Financial](https://www.gmfinancial.com)
 - Previously was worked as an Assiciate Data Engineer at [Snagajob](https://www.sngajob.com)
 - Working on Data ingestion, Azure and Terraform 
-- 🌱 I’m currently learning kafka, snowflake and data architecture
+- 🌱 I’m currently learning Azure cloud, IaC, Gen AI, Databricks, LLMs snowflake and data architecture
 - 👯 I’m looking to collaborate on data engineering and analytics
 - 📫 How to reach me: ashish1995@gmail.com
 - My resume and work experiences - 

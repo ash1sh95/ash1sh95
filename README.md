@@ -1,9 +1,9 @@
 ### Hi there 👋 , I'm Ashish
 
 - 🔭 I’m currently working as a Data Engineer II at [GM Financial](https://www.gmfinancial.com)
-- Previously was worked as a Data Engineer at [Snagajob](https://www.snagajob.com)
-- Working on Data ingestion, Azure and Terraform 
-- 🌱 I’m currently learning Azure cloud, IaC, Gen AI, Databricks, LLMs implementation, and data architecture
+- Previously was worked as Data Engineer at [Snagajob](https://www.snagajob.com) [Acquired by GetJob}
+- Working on CLoud AI Architecture, LLM Evaluation , Databricks and AI cloud infrastructure
+- 🌱 I’m currently learning Gen AI, LLM and AI Architecture
 - 👯 I’m looking to collaborate on data engineering and analytics
 - 📫 How to reach me: ashish1995@gmail.com
 - My resume and work experiences - 

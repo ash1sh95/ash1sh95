@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Data Engineer II at [GM Financial](https://www.gmfinancial.com)
 - Previously was worked as Data Engineer at [Snagajob](https://www.snagajob.com) [Acquired by GetJob}
-- Working on CLoud AI Architecture, LLM Evaluation , Databricks and AI cloud infrastructure
+- Working on Cloud AI Architecture, LLM Evaluation , Databricks and AI cloud infrastructure
 - 🌱 I’m currently learning Gen AI, LLM and AI Architecture
 - 👯 I’m looking to collaborate on data engineering and analytics
 - 📫 How to reach me: ashish1995@gmail.com

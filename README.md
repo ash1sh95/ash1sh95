@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm Ashish
+### Hi, I'm Ashish 👋
+
+Passionate about agentic AI and cloud-native ML.
 
 - 🔭 I’m currently working as a Data Engineer III at [GM Financial](https://www.gmfinancial.com)
 - Previously was worked as Data Engineer at [Snagajob](https://www.snagajob.com) [Acquired by GetJob]
@@ -9,12 +11,12 @@
 - My resume and work experiences - 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/ashish-a/)](https://www.linkedin.com/in/ashish-a/)
  
- - Some stat : <br>
+ - 📊 Stats: <br>
  ![](https://komarev.com/ghpvc/?username=ash1sh95)
- 
 
 
 
+*Currently hacking on agentic AI—let's build something!*
 
 <!--
 **ash1sh95/ash1sh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

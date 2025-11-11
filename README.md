@@ -15,7 +15,7 @@ I specialize in **agentic AI**, **RAG architectures**, and **end-to-end data pla
 
 ### 🧠 Previously
 - **Data Engineer** at [Snagajob](https://www.snagajob.com) → *Acquired by GetJob*  
-  Built scalable ingestion pipelines, observability frameworks, and cloud-native data platforms
+  Built scalable ingestion pipelines, observability frameworks, and cloud-native data platforms in snowflake & kafka
 
 ---
 

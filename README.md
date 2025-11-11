@@ -1,5 +1,5 @@
 ### Hi, I'm Ashish 👋  
-🚀 ** Data & AI Engineer | Agentic AI | Cloud-Native ML | Data Platforms**
+🚀 Data & AI Engineer | Agentic AI | Cloud-Native ML | Data Platforms
 
 ---
 
@@ -20,7 +20,7 @@ I specialize in **agentic AI**, **RAG architectures**, and **end-to-end data pla
 ---
 
 ### 🌱 Currently Learning
-- Generative AI, **LLM Architectures**, Multi-Agent Systems  
+- Generative AI, **LLM Architectures**, Multi-Agent Systems and CUDA Programming
 - Azure AI, **OpenAI Service**, and **MCP (Model Context Protocol)**
 
 ### 🤝 Collaboration

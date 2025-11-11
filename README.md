@@ -17,7 +17,7 @@ Passionate about agentic AI and cloud-native ML.
 - Deploying scalable solutions on Azure (Storage, Azure databricks, Synapse).
 - Recent focus: Agentic workflows for RAG, multi-agent systems and MCP.
 
- - 📊 Stats: <br>
+ ## 📊 Stats: <br>
  ![](https://komarev.com/ghpvc/?username=ash1sh95)
 
 

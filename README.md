@@ -70,6 +70,6 @@ I specialize in **agentic AI**, **RAG architectures**, and **end-to-end data pla
 ---
 
 ### 🧩 About Me  
-*"Currently hacking on agentic AI—building LLM-native workflows that think, reason, and act."*  
+*Currently hacking on agentic AI—building LLM-native workflows that think, reason, and act.*  
 Let’s build something transformative. ⚡
 
